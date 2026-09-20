@@ -1191,6 +1191,7 @@ export const ja = {
     runtimeEngine: "ランタイムエンジン",
     language: "言語",
     timeZone: "タイムゾーン",
+    dataDirectory: "データディレクトリ",
     instanceConnection: "インスタンス接続",
     requestLatency: "ヘルスチェック時間",
     lastSuccessfulSync: "最後に成功した同期",
